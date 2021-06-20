@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RudraAsthana
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Godot Projects
+- 👀 I’m interested in design and web development.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me: email me at - 01crimsonate@gmail.com
 
 <!---
