@@ -8,7 +8,7 @@
 
 # Hi I am Rudra Asthana, also known as 'Crimsonate'.
 
-- I hail from a the country of India. 
+- I hail from the country of India. 
 - I am a big fan of Linux and FOSS software.
 - I also love creating UI designs and I am kind of getting good at it. 
     - I am a sucker for Figma.
