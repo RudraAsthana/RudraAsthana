@@ -16,6 +16,8 @@
 - 📚 Stay up-to-date with the ever-evolving world of technology and design, exploring the latest trends and experimenting with new tools.
 - 🌍 Let's connect, collaborate, and create something extraordinary together!
 
+[![Rudra's github stats](https://github-readme-stats.vercel.app/api?username=RudraAsthana&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 Contact Information:
 - ✉️ Email: [email protected]
 - 🌐 Portfolio: -in progress haha-
