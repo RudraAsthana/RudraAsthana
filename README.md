@@ -6,22 +6,26 @@
 
                                                                                   
 ```   
+I am Rudra Asthana. I am currently taking a drop year to prepare for the 2027 CLAT and AILET entrance examinations, while maintaining active projects in system configuration, typesetting, and digital writing.
 
-👋 Hey there! I'm **Rudra Asthana**, a passionate 17-year-old **web developer**, **UI/UX** designer, and **graphic designer**. 🌟  
+### Technical Environment & Stack
+* **Systems & Scripting:** Arch Linux, Fedora, Bash, Go, Python, C++, SQL.
+* **Typesetting & Formatting:** LaTeX (Vimtex, TeX Gyre typography, custom environments), Markdown.
+* **Web & UI/UX:** HTML, CSS, GitHub Pages.
+* **Workspace:** Neovim (modular Lua configuration), Ghostty, Zsh.
 
-- 💻 Combining my love for coding and design, I craft captivating digital experiences that make an impact.  
-- 🎨 With a keen eye for aesthetics and a deep understanding of user psychology, I create visually stunning and user-friendly designs that enhance engagement and satisfaction.  
-- 🌐 Proficient in **HTML**, **CSS**, **JavaScript**, and **React**, I leverage the latest tools and technologies to develop efficient, responsive, and modern websites.  
-- 🏆 Enthusiastic learner, always seeking new challenges to grow as a developer and designer.  
-- 📚 Stay up-to-date with the latest tech and design trends, constantly experimenting with new tools and techniques.  
-- 🎬 Passionate about visual storytelling—interested in screenplay formatting and cinematic editing.  
-- 🎮 Intermediate **game developer**, currently using **Godot**.
-- 📝 Experienced in event scripting, crafting detailed background contexts for performances (e.g., **VERVE 2024**).  
-- 🏛️ Have extensive **MUN experience**, including as **Director General of DPSS MUN 2024**, handling background guides, keynotes, and delegate management.  
-- 🌍 Open to collaborations, networking, and creating extraordinary projects!  
+### Writing & Digital Maintenance
+* **Substack:** Authoring creative reflections, personal essays, and analytical writing.
+* **Academic Formatting:** Structuring comprehensive study manuals, legal reasoning notes, and academic proposals using LaTeX and Google Docs.
 
-### 📬 Contact Information:
-- ✉️ Email: [rudraasthana7@gmail.com](mailto:rudraasthana7@gmail.com) (Primary)  
-- 🌐 Portfolio: *in progress haha*  
-- 📸 Instagram: [@infinitelyeepyrudra](https://instagram.com/infinitelyeepyrudra)  
+### Leadership & Model United Nations (Archived)
+* **Director General (DPSS MUN):** Managed delegate coordination, drafted the formal proposal and Letter of Patronage in LaTeX, and handled keynote operations.
+* **Literary Council Vice Captain:** Served in student council leadership during high school.
+* **Committee Leadership:** Authored background guides and served as Crisis Director (DPSKMUN) and Vice Chair (KKL MUN) before stepping away from active MUN participation in August 2026.
 
+### Contact & Connect
+* **Email:** [rudraasthana7@gmail.com](mailto:rudraasthana7@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/rudraasthana/]
+* **Mastodon:** [https://mastodon.social/@rudraasthana]
+* **Substack:** [https://rudraasthana.substack.com/]
+* **Portfolio:** *In progress (GitHub Pages)*
