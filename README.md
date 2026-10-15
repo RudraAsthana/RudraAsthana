@@ -28,4 +28,4 @@ I am Rudra Asthana. I am currently taking a drop year to prepare for the 2027 CL
 * **LinkedIn:** [https://www.linkedin.com/in/rudraasthana/]
 * **Mastodon:** [https://mastodon.social/@rudraasthana]
 * **Substack:** [https://rudraasthana.substack.com/]
-* **Portfolio:** *In progress (GitHub Pages)*
+* **Portfolio:** [https://rudraasthana.github.io/]
